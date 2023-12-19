@@ -321,7 +321,7 @@ img {
     background-color: #404BBF;
 }
 .socials-icon {
-    fill: #4D5AE5;
+    fill: currentColor;
 }
 
 .section-four {
