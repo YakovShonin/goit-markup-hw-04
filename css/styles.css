@@ -315,16 +315,11 @@ img {
     background-color: #4D5AE5;
     border-radius: 50%;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    fill: #f4f4fd;
 }
 .socials-link:hover,
 .socials-link:focus {
     background-color: #404BBF;
-}
-.social-icon {
-    fill: #4D5AE5;
-}
-.social-icon:hover {
-    fill: #f4f4fd;
 }
 .section-four {
     background: #FFF;
