@@ -320,10 +320,12 @@ img {
 .socials-link:focus {
     background-color: #404BBF;
 }
-.socials-icon {
-    fill: currentColor;
+.social-icon {
+    fill: #4D5AE5;
 }
-
+.social-icon:hover {
+    fill: #f4f4fd;
+}
 .section-four {
     background: #FFF;
 }
